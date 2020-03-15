@@ -1,0 +1,33 @@
+.footer {
+  font-weight: lighter;
+  font-size: 12px;
+  background-color: rgba(240, 240, 240, 0.8);
+  text-align: center;
+  height: 120px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-top: 20px;
+}
+
+.list-inline li {
+  display: inline;
+  margin-top: 0px;
+}
+
+.font-icon {
+  font-size: 26px;
+  margin: 80px 2px;
+  color: #1370fb;
+}
+
+.font-icon:hover {
+  color: #0B3E89;
+}
+
+.footer p {
+  padding-bottom: 10px;
+}
+
+

@@ -1,0 +1,40 @@
+.banner {
+  margin: 0px;
+  background-size: cover;
+  height: 500px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-position: center;
+}
+
+.banner-container {
+  color: #E3E3E3;
+  text-shadow: 10px 10px 30px rgba(0, 0, 0, .8);
+  text-align: center ;
+}
+
+.banner-container a {
+  color: white;
+  padding-top: 100px;
+  background-color: #1370fb;
+  padding: 8px 24px;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.banner-container a:hover {
+  background-color: #0B3B82;
+  transition: 0.3s;
+}
+
+.banner-container a:visited {
+  color: white;
+}
+
+.banner-container p {
+  font-weight: bold;
+  color: white;
+}
+

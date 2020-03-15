@@ -1,0 +1,28 @@
+.card img {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+}
+
+.cards {
+  width: 1000px;
+  display: flex;
+  justify-content: space-around;
+  margin: 0px auto;
+}
+
+.card {
+  width: 200px;
+  margin: 20px;
+  border: 1px solid rgba(240, 240, 240, 0.5);
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card h3 {
+   color: black;
+}
+
+.card p {
+  color: #808080;
+  font-weight: lighter;
+}
